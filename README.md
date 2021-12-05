@@ -1,2 +1,2 @@
 # pytorch_knowledge_distillation
-基于Pytorch的知识郑楼（中文文本分类）
+基于Pytorch的知识蒸馏（中文文本分类），将用bert训练好的中文分类模型蒸馏到bilstm上。
